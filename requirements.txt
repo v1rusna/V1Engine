@@ -1,0 +1,2 @@
+# Runtime dependencies for the Engine project
+pygame>=2.1
